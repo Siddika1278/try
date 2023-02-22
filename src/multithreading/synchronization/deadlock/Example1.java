@@ -1,4 +1,4 @@
-package deadLock.withSynchronizedMethods;
+package multithreading.synchronization.deadlock;
 
 public class Example1 {
     public static void main(String[] args) {
